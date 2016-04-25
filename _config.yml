@@ -1,7 +1,7 @@
 name: HNO
 favicon: null
-layout_spectrum: 0.8985176435671747
-typography_spectrum: 0.22015569382347167
+layout_spectrum: 0
+typography_spectrum: 0.43681
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6203716676682234
+    - '#018871'
+    - '#ffffff'
+    - '#7ac1b4'
+    - '#b4dcd5'
+    - '#3ba390'
+  brandStrength: 0.5625
   lightness: 0.17531919828616083
-  saturation: 0.9780168535653502
+  saturation: 1
   rhythmicContrast: 0.6061215542722493
 purpose: []
